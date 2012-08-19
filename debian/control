@@ -7,6 +7,6 @@ Standards-Version: 3.9.1
 
 Package: forever
 Architecture: any
-Depends: 
-Description: A programm that runs doesn't terminate and runs forever
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Programm that doesn't terminate and runs forever
  The program won't do anything else. Parameters given are ignored.
