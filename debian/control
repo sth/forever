@@ -1,0 +1,12 @@
+Source: forever
+Section: admin
+Priority: optional
+Maintainer: Stephan Hohe <sth.dev@tejp.de>
+Build-Depends: debhelper (>= 5.0.0), cdbs
+Standards-Version: 3.9.1
+
+Package: forever
+Architecture: any
+Depends: 
+Description: A programm that runs doesn't terminate and runs forever
+ The program won't do anything else. Parameters given are ignored.
