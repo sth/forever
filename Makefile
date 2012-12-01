@@ -1,4 +1,6 @@
 
+build: all
+
 all: forever
 
 forever: forever.o
