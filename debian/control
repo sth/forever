@@ -2,8 +2,8 @@ Source: forever
 Section: admin
 Priority: optional
 Maintainer: Stephan Hohe <sth.dev@tejp.de>
-Build-Depends: debhelper (>= 5.0.0), cdbs
-Standards-Version: 3.9.1
+Build-Depends: debhelper (>= 5.0.0)
+Standards-Version: 3.9.3
 
 Package: forever
 Architecture: any
