@@ -1,4 +1,6 @@
 
+CFLAGS=-O2
+
 build: all
 
 all: forever
